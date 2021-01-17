@@ -2,6 +2,6 @@
 
 # "license": "MIT",
 
-## переходим в папку server и запускаем сервер командой npm start
+## go to "server" foulder and type "npm start"
 
-## запускаем front перейдя в папку client и выполнив команду npm start
+## go to "client" foulder and type "npm start"
